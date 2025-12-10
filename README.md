@@ -30,8 +30,7 @@ Unity Packages Used:
 - Cinemachine
 - Input System
 - ProBuilder
-- Unity UI
-- Universal RP
+- TextMeshPro
 - Visual Scripting
 - Visual Studio Code Editor
 
