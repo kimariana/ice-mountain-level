@@ -14,6 +14,9 @@ This repository contains a portion of the work I contributed to the Recipe for D
 ## Description
 A 3D, third-person action-adventure game where the player controls a hero chosen to defeat the boss in the castle. Players will navigate through different landscapes, solving puzzles and defeating food enemies to collect ingredients to make a spaghetti and weapons to arm themselves with a knife, spoon, and fork to confront the boss.
 
+## Purpose
+Design game levels and create a cohesive player experience by unifying the theme and game systems across all four levels.
+
 ## Contributions
 - Level design for the ice mountain level (Level 4)
   - Mechanics within level for puzzles, gates, and heals
